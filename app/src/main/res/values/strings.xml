@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Traffic Insight</string>
+    <string name="tagline">Recognize traffic signs with AI</string>
+    <string name="start">Start</string>
+    <string name="quit">Quit</string>
+    <string name="select_image">Gallery</string>
+    <string name="take_photo">Camera</string>
+    <string name="predict">Predict</string>
+    <string name="prediction_placeholder">Pick or take a photo</string>
+    <string name="no_image">Pick or take a photo first</string>
+    <string name="prediction_result">%1$s\n(%2$.1f%%)</string>
+    <string name="not_recognized">Not recognized\n(best guess: %1$.1f%%)</string>
+</resources>

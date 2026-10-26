@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TrafficInsight" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/navy_light</item>
+        <item name="colorOnPrimary">@color/navy_dark</item>
+        <item name="colorSecondary">@color/sign_yellow</item>
+        <item name="colorOnSecondary">@color/navy_dark</item>
+        <item name="colorError">#FF8A80</item>
+        <item name="android:colorBackground">#111827</item>
+        <item name="colorSurface">#111827</item>
+        <item name="colorOnSurface">#E5E7EB</item>
+    </style>
+</resources>

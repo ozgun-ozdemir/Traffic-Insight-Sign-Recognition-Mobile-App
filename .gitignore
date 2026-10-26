@@ -1,0 +1,17 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.kotlin/
+captures/
+.cxx/
+*.apk
+*.aab
+app/release/
+
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+.DS_Store
