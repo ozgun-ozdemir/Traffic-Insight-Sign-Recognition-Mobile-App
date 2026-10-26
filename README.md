@@ -2,7 +2,7 @@
 
 Android app that recognizes traffic signs from a photo. Pick a photo from your gallery or take one with the camera, and the app classifies the sign with an on-device TensorFlow Lite (LiteRT) model, showing the result with a confidence score.
 
-This was our university graduation project. The model is trained on the 43 classes of the [GTSRB (German Traffic Sign Recognition Benchmark)](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign) dataset: speed limits, stop, yield, no entry, pedestrian crossing and more. This new version comes with a redesigned UI and updated software versions.
+This was our university graduation project. The model is trained on the 43 classes of the [GTSRB (German Traffic Sign Recognition Benchmark)](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign) dataset: speed limits, stop, yield, no entry, pedestrian crossing and more. This new version comes with a redesigned UI, updated software versions and a retrained model.
 
 ## Features
 
